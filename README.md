@@ -4,4 +4,4 @@
   <p align="center">Repository for the For the Good of the Community Universe Workshop</p>
 </p>
 
-- [Slide Deck PDF](I'm broken y'all)
+- [Slide Deck PDF](ContributeOS-Workshop2018.pdf)
